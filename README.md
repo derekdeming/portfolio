@@ -2,7 +2,7 @@
 
 ### Introduction
 
-Use this template if you need a quick developer / data science portfolio! Based on a Minimal Jekyll theme for GitHub Pages.
+This is a simple display for my projects, portfolio and more background about myself 
 
 <img src="images/demo.gif?raw=true"/>
 
